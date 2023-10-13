@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+
+  border-radius: 30px;
+  font-size: 18px;
+  color: white;
+  background-color: #ea98dd;
+  cursor: pointer;
+  &:hover {
+    background-color: #eca8e1;
+  }
+  &:active {
+    background-color: #ea98dd;
+  }
+  .pawButton * {
+    fill: white;
+    width: 100%;
+    height: 100%;
+
+  }
+}

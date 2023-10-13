@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 100%;
+  cursor: pointer;
+  margin-left: 10px;
+  .avatar * {
+    fill: white;
+
+    &:hover * {
+      fill: rgba(234, 152, 221, 0.8);
+    }
+  }
+}

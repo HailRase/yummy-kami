@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: 50px;
+  background-color: #ea98dd;
+  color: white;
+  .logo {
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    width: 300px;
+    cursor: pointer;
+    .pawLogo * {
+      display: flex;
+      align-items: center;
+      fill: white;
+    }
+  }
+  & > span {
+    display: block;
+    position: fixed;
+  }
+}
