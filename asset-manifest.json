@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/yummy-kami/static/css/main.2d690bde.css",
+    "main.js": "/yummy-kami/static/js/main.a53e7177.js",
+    "static/js/787.f04d0856.chunk.js": "/yummy-kami/static/js/787.f04d0856.chunk.js",
+    "static/media/hello-kitty.svg": "/yummy-kami/static/media/hello-kitty.8c7b4e9e14ebc2f6714247ca286629bb.svg",
+    "static/media/cat-paw1.svg": "/yummy-kami/static/media/cat-paw1.5518678d1c2b9d0b0e9a4278b4d66e19.svg",
+    "static/media/paw-button.svg": "/yummy-kami/static/media/paw-button.def30812d258c28aa4624294795195e7.svg",
+    "static/media/cat-paw.svg": "/yummy-kami/static/media/cat-paw.0e6854ef728bafb3b046bf496f857afe.svg",
+    "index.html": "/yummy-kami/index.html",
+    "main.2d690bde.css.map": "/yummy-kami/static/css/main.2d690bde.css.map",
+    "main.a53e7177.js.map": "/yummy-kami/static/js/main.a53e7177.js.map",
+    "787.f04d0856.chunk.js.map": "/yummy-kami/static/js/787.f04d0856.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d690bde.css",
+    "static/js/main.a53e7177.js"
+  ]
+}
