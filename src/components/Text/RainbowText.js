@@ -4,7 +4,7 @@ import {ReactComponent as Paw} from "../../assets/cat-paw1.svg";
 import s from './RainbowText.module.scss'
 
 const RainbowText = (props) => {
-    const text = "YUMMY    KAMI";
+    const text = "ДЭНЧЫК";
     const colors = ["red", "orange", "yellow", "green", "blue", "purple"];
 
     return (
